@@ -1,0 +1,3 @@
+[submodule "packages/master"]
+	path = packages/master
+	url = https://github.com/btakita/yarn-workspaces-master.git
