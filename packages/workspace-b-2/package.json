@@ -1,7 +1,7 @@
 {
   "name": "@prefix-b/workspace-b-2",
   "version": "1.0.0",
-
+  "main": "app.js",
   "dependencies": {
     "cross-env": "5.0.5",
     "@prefix-b/workspace-b": "1.0.0"
