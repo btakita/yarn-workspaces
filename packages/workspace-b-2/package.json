@@ -10,6 +10,7 @@
 		"@prefix-b/workspace-b": "1.0.0"
 	},
 	"devDependencies": {
+		"sass": "^1.23.7",
 		"typescript": "^3.7.2"
 	}
 }

@@ -6,9 +6,10 @@
 	"types": "app.ts",
 	"dependencies": {
 		"cross-env": "5.0.5",
-		"@prefix-a/workspace-a": "1.0.0"
+		"@prefix-a/workspace-a": "1.0.0",
 	},
 	"devDependencies": {
+		"sass": "^1.23.7",
 		"typescript": "^3.7.2"
 	}
 }
